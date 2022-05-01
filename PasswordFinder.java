@@ -5,7 +5,7 @@ to find the secret word/string.
 package passwordfinder;
 
 /**
- * @author Devlin Wyatt
+ * @author Debrah Wyatt
  */
 public class PasswordFinder {
 
